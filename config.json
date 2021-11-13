@@ -1,0 +1,90 @@
+{
+  "bot": {
+    "owner": "689977464663179309",
+    "prefix": ".",
+    "BotStatus": "Rahibe",
+    "cooldown": 8,
+    "iltifatsize": 100
+  },
+  "penals": {
+    "ban": {
+      "staff": "909039209191460874",
+      "log": "909039366972768267",
+      "limit": 3
+    },
+    "jail": {
+      "staff": "909039211036934144",
+      "roles": "909039220637724672",
+      "log": "909039369195769946",
+      "limit": 5
+    },
+    "mute": {
+      "staff": "909039212806930463",
+      "roles": "909039184650579978",
+      "log": "909039368277200916",
+      "limit": 5
+    },
+    "warn": {
+      "staff": "909039214040080384",
+      "log": "909039372043710474"
+    },
+    "points": {
+      "mutepoints": "10",
+      "banpoints": "30",
+      "jailpoints": "20",
+      "warnpoints": "5"
+    }
+  },
+  "logs": {
+    "messagelog": "909039370097537035",
+    "voicelog": "909039372966457344",
+    "taglog": "909039371171295252"
+  },
+  "roles": {
+    "boosterrole": "BOOSTER ROLÜ ID",
+    "viprole": "909039225951911968",
+    "designerrole": "909039230435610624",
+    "musiciansrole": "909039231811354645",
+    "team": "909039223892484176",
+    "sponsored": "909039225456959538"
+  },
+  "channels": {
+    "chat": "909039342964596826",
+    "voicechannel": "909039341966336030",
+    "welcomechannel": "909039314254565387",
+    "rules": "909039319287738379"
+  },
+  "parents": {
+    "publicparents": "909039303215185940"
+  },
+  "registration": {
+    "unregistered": "909039238635474974",
+    "man": [ "909039236362170398", "909039237125509150" ],
+    "woman": [ "909039233635860481", "909039234667671582" ],
+    "staff": "909039214811836456",
+    "GuilDTag": "▾",
+    "TagSymbol": "▾",
+    "autonickname": "▾ İsim | Yaş",
+    "symbol": "|",
+    "suspecios": "909039222164451329",
+    "susoeciosnickname": "$ Şüpheli Hesap",
+    "oneman": "909039236362170398",
+    "onewoman": "909039233635860481D",
+    "minage": 13,
+    "purchase": false
+  },
+  "Guild": {
+    "GuildID": "908066006604341338",
+    "GuilDName": "FEARLESS",
+    "GuildOwnerRole": [ "908066006927286340" ]
+  },
+  "emojis": {
+    "tada": "TADA EMOJİSİ ID",
+    "yes": "ONAY EMOJİSİ ID",
+    "no": "RED EMOJİSİ ID"
+  },
+  "buttons": {
+    "giveaway": "909043378564526160",
+    "activity": "909043373808160778"
+  }
+}
